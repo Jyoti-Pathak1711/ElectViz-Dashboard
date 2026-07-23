@@ -1,85 +1,145 @@
-# ElectViz: Election Data Visualization for Media
+# 📊 ElectViz – Election Data Visualization Dashboard
 
-## Project Overview
-ElectViz is an interactive data visualization project developed using Microsoft Power BI to analyze Indian General Election data.  
-The project converts large and complex election datasets into clear, interactive dashboards that help users understand voter behavior, party performance, and regional election trends.
+<div align="center">
 
-ElectViz is designed to support data-driven political analysis and effective media and public communication through visual storytelling.
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-0052CC?style=for-the-badge)
+![CSV](https://img.shields.io/badge/Dataset-CSV-success?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github)
+![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
----
+**Interactive Power BI dashboard for analyzing Indian National Election data**
 
-## Project Files
-- ElectViz Dashboard(Infosys).pbix – Main Power BI dashboard file  
-- Team_Members_PPT/ – Individual presentation files of team members  
-- Team_PPT.pptx – Combined team presentation
-- Internship_Completion_Report - Final team report    
-- README.md – Project documentation  
-- LICENSE – License information  
-- indian-national-level-election.csv - Dataset use for project
-  
----
+Developed during the **Infosys Springboard Virtual Internship 2026**
 
-## Key Features
-- Interactive dashboards with slicers for Year, State, and Region  
-- Election overview with key performance indicators (KPIs)  
-- Voter turnout analysis across states and regions  
-- Party performance and dominance analysis  
-- Gender-based candidate participation insights  
-- Regional analysis (North, South, East, West India)  
-- Clean and user-friendly dashboard layout  
+</div>
 
 ---
 
-## Tools & Technologies
-- Microsoft Power BI  
-- Power BI Power Query  
-- Power Query Editor
-- DAX (Data Analysis Expressions) 
-- For importing and handling structured datasets.
-- Kaggle 
-- GitHub
-- GitLab
- 
+# 📌 Overview
+
+ElectViz is an interactive Power BI dashboard designed to transform raw Indian election datasets into meaningful visual insights.
+
+The dashboard enables users to explore election results through dynamic visualizations, filters, and comparative analysis, helping identify voting trends, party performance, and constituency-level insights.
 
 ---
 
-## License
-MIT Licence
+# 👩‍💼 My Role
+
+## Team Lead
+
+### Responsibilities
+
+- Led project planning and execution
+- Designed and developed the complete Power BI dashboard
+- Cleaned and transformed raw election datasets
+- Created interactive visualizations
+- Generated analytical insights from election data
+- Coordinated project development and final submission
 
 ---
 
-## Team Learnings & Outcomes
-- Hands-on experience with real-world election data  
-- Improved skills in data cleaning and preprocessing  
-- Strong understanding of Power BI data modeling and visualization  
-- Ability to derive meaningful insights from large datasets  
-- Enhanced teamwork, communication, and time management skills  
+# ✨ Features
+
+- 📈 Interactive Dashboard
+- 🗺️ State-wise Election Analysis
+- 🏛️ Party-wise Vote Share
+- 🪑 Seat Distribution Analysis
+- 📊 Dynamic Charts & KPIs
+- 🎯 Interactive Filters & Slicers
+- 📌 Drill-through Reports
 
 ---
 
-## Future Enhancements
-- Integration of recent and real-time election datasets  
-- Predictive analysis for voter turnout and party performance  
-- Advanced drill-through and tooltip features  
-- Deployment of dashboards using Power BI Service  
+# 🛠 Tech Stack
+
+| Technology | Purpose |
+|------------|---------|
+| Power BI | Dashboard Development |
+| Microsoft Excel | Data Cleaning |
+| CSV Dataset | Election Data |
+| Git & GitHub | Version Control |
 
 ---
 
-## Conclusion
-ElectViz demonstrates how Power BI can effectively transform raw election data into meaningful insights.  
-The project highlights voting trends, party dominance, gender imbalance, and regional variations, enabling better understanding of democratic processes through data visualization.
+# 📂 Project Structure
+
+```
+ElectViz-Dashboard
+│
+├── dashboard/
+│   └── ElectViz Dashboard.pbix
+│
+├── data/
+│   └── indian-national-level-election.csv
+│
+├── report/
+│   └── Internship_Completion_Report.pdf
+│
+├── screenshots/
+│   ├── dashboard-home.png
+│   ├── party-analysis.png
+│   ├── state-analysis.png
+│   └── filters.png
+│
+├── LICENSE
+└── README.md
+```
 
 ---
 
-## Contributors
-- Bhavishya Priyadarshini V 
-- Jasleen Kaur  
-- Jyoti Pathak  
-- Nikhitha M  
+# 📷 Dashboard Preview
 
-(Infosys Springboard Virtual Internship – 2026 Batch)
+> Add screenshots here
+
+### Home Dashboard
+
+![Dashboard](screenshots/dashboard-home.png)
+
+### State Analysis
+
+![Dashboard](screenshots/state-analysis.png)
+
+### Party Analysis
+
+![Dashboard](screenshots/party-analysis.png)
 
 ---
 
-## Notes
-This project is developed solely for academic and internship purposes under the Infosys Springboard Virtual Internship Program.
+# 📊 Key Insights
+
+- State-wise election performance
+- Party-wise vote percentage
+- Winning candidate trends
+- Regional voting patterns
+- Interactive data exploration
+
+---
+
+# 🚀 Future Improvements
+
+- Live Election Commission API integration
+- Predictive Analytics
+- AI-powered insight generation
+- Mobile responsive dashboard
+- Geographical mapping
+
+---
+
+# 🎓 Internship
+
+**Infosys Springboard Virtual Internship 2026**
+
+This project was completed as part of the internship program.
+
+My role in the project was **Team Lead**, responsible for project coordination and dashboard development.
+
+---
+
+# 📜 License
+
+This project is licensed under the MIT License.
+
+---
+
+## ⭐ If you found this project interesting, consider giving it a Star!
